@@ -1,2 +1,9 @@
 kdfjkdfjk
 adding second line from github
+
+
+removing comment from staging area
+
+qremoving from remote repository.
+
+
